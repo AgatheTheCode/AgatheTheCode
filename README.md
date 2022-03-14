@@ -1,6 +1,14 @@
 - 👋 Hi, I'm Agathe
 
 - I'm currently learning web (front and back end) at the university of Strasbourg
+ 
+- I'm also learning UX design, design, communication and marketing
+
+- In here you'll find my big learning projects 
+
+- Those projects are imperfect but they will be proofs of my contiuous improvement in WEB 
+
+
 
 
 
