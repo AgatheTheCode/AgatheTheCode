@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agathe Dufour</h1>
-<h3 align="center">A passionate student in web developpement from France</h3>
+<h3 align="center">A passionate student in web developpement from France. Intern at A2micile as back-end Web Developpeur</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agathethecode&label=Profile%20views&color=0e75b6&style=flat" alt="agathethecode" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 a **lot** of things
 
 - 👨‍💻 All of my projects are available at [https://portfolio-agathe-dufour.dufourj.etu.mmi-unistra.fr/](https://portfolio-agathe-dufour.dufourj.etu.mmi-unistra.fr/)
 
