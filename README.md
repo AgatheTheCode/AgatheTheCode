@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agathe Dufour</h1>
-<h3 align="center">A passionate student in web developpement from France. Intern at a2micile group as back-end Web Developpeur</h3>
+<h3 align="center">A passionate student in web developpement from France. Intern at a2micile group as back-end Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agathethecode&label=Profile%20views&color=0e75b6&style=flat" alt="agathethecode" /> </p>
 
