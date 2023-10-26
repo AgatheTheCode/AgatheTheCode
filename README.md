@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **VueJs**
+- 🌱 I’m currently learning **Laravel**
 
 - 👩🏻‍💻My portfolio is available at [http://agathedufour.com/](http://agathedufour.com/)
 
